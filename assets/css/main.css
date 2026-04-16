@@ -20,7 +20,7 @@
 /* Colors */
 :root {
   --color-default: #364d59;
-  --color-primary: #feb900;
+  --color-primary: rgb(202,53,46);
   --color-secondary: #52565e;
 }
 
@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-  color: #ffc732;
+  color: rgb(202,53,46);
   text-decoration: none;
 }
 
@@ -2694,7 +2694,7 @@ section {
 
 
 #color-in-hover:hover{ 
-background-color: rgb(23, 211, 99);
+background-color: rgb(202,53,46);
  color:black; 
 }
 
